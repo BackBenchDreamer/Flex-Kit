@@ -2,7 +2,7 @@
 
 This repository contains an interactive Sliding Image Track element designed to enhance user experience through smooth animations driven by mouse movement. Developed with HTML, CSS, and JavaScript, this project demonstrates how to create engaging web elements with minimal code.
 
-![Sliding Image Track Preview](Carousel/Sliding%20Image%20Track/preview.gif))
+![Sliding Image Track Preview](/Carousel/Sliding%20Image%20Track/preview.gif)
 
 ## Highlights
 
