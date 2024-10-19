@@ -2,7 +2,8 @@
 
 This subfolder contains a Masonry Layout component designed to create a visually appealing, responsive grid of images or elements. The Masonry Layout allows for dynamic arrangement, optimizing space and enhancing user experience by adapting to various screen sizes.
 
-![Masonry Layout Preview](/Carousel/Masonry%20Layout/preview.gif)
+![Masonry Layout Preview](/Carousel/Masonry%20Layout/preview.gif)  
+![Masonry Layout Alternative Preview](/Carousel/Masonry%20Layout/preview%202.gif)
 
 ## Highlights
 
