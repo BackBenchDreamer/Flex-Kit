@@ -2,9 +2,10 @@
 
 This subfolder contains a Masonry Layout component designed to create a visually appealing, responsive grid of images or elements. The Masonry Layout allows for dynamic arrangement, optimizing space and enhancing user experience by adapting to various screen sizes.
 
-![Masonry Layout Preview](/Carousel/Masonry%20Layout/preview.gif)  
-![Masonry Layout Alternative Preview](/Carousel/Masonry%20Layout/preview%202.gif)
-
+<div style="display: flex; justify-content: space-around;">
+    <img src="/Carousel/Masonry%20Layout/preview.gif" alt="Masonry Layout Preview" width="400"/>
+    <img src="/Carousel/Masonry%20Layout/preview%202.gif" alt="Masonry Layout Alternative Preview" width="400"/>
+</div>
 ## Highlights
 
 -   🎨 **Dynamic Arrangement**: Elements are positioned based on available vertical space, creating a stylish and organized look.
