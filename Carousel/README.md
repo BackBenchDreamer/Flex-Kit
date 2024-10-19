@@ -15,13 +15,13 @@ The **Carousel** subfolder of **Flex-Kit** contains a variety of interactive car
    ```bash
    git clone https://github.com/yourusername/Flex-Kit.git
 
-2. Navigate to the Carousel folder:
+2. **Navigate to the Carousel folder**:
 
     ```bash
 
     cd Flex-Kit/Carousel
 
-3. Choose a carousel component to explore and open the respective HTML file in your browser.
+3. **Choose a carousel component to explore and open the respective HTML file in your browser**.
 
 ## Contributing
 
